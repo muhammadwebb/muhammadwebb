@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Backend Developer</h3>
+<h2 align="center">Backend Developer</h2>
 
 <p align="left">
 </p>
